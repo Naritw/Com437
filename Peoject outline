@@ -1,0 +1,58 @@
+# 🔐 SecureAccess App
+
+## 📘 Project Description  
+SecureAccess is a mobile-first application designed to enhance physical and digital security for small to mid-sized organizations. It integrates proximity card authentication, secure login protocols, and real-time access monitoring to ensure only authorized users can access protected zones or resources.
+
+---
+
+## 🚨 Problem Addressing  
+Organizations face increasing threats from unauthorized access and outdated authentication systems. SecureAccess solves this by:
+- Replacing legacy access systems with proximity card and biometric verification.
+- Implementing secure login protocols (2FA, input validation).
+- Providing centralized dashboards for access monitoring and audit trails.
+
+---
+
+## 🧱 Platform  
+- **Primary**: Android (Kotlin/XML)
+- **Secondary**: Web dashboard (Power BI)
+- **Tools Used**: Android Studio, Firebase, GitHub, Power BI
+
+---
+
+## 🖥️ Front-End / Back-End Support  
+
+### Front-End  
+- Android UI built with Kotlin and XML  
+- Responsive wireframes focused on usability and accessibility  
+- Key screens: Login, Access Request, Admin Dashboard, User Profile  
+
+### Back-End  
+- Firebase Authentication and Firestore  
+- RESTful APIs for access validation and logging  
+- Encryption for data-in-transit and at-rest  
+
+---
+
+## ⚙️ Functionality  
+- Secure login with proximity card ID and optional biometric verification  
+- Role-based access control for zones/resources  
+- Real-time monitoring and alerts via admin dashboard  
+- Immutable audit logs for compliance  
+- Offline mode with credential caching  
+
+---
+
+## 🎨 Design (Wireframes)  
+Wireframes were created using Figma and implemented in Android Studio. Key design principles include:
+- Clean layout and intuitive navigation  
+- Security-first UI/UX  
+- Screens include:
+  - Login & Authentication  
+  - Access Request & Approval  
+  - Admin Dashboard  
+  - User Profile & Settings  
+
+---
+
+## 📁 Repository Structure  
