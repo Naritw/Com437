@@ -1,0 +1,58 @@
+# 📜 CHANGELOG (Pre-Release)
+
+This changelog documents development progress prior to the official release of SecureAccess.
+
+---
+
+## [0.1.0] - 2025-07-10
+### 🧪 Prototype Initiation
+- Defined app concept: secure access control using proximity cards and biometric login.
+- Created initial wireframes for login, dashboard, and user profile screens.
+- Selected Firebase Authentication and Firestore as backend stack.
+
+---
+
+## [0.2.0] - 2025-07-18
+### 🛠️ Core Functionality Development
+- Implemented proximity card scanning and credential validation.
+- Built basic login flow with Firebase integration.
+- Developed user role assignment logic (admin, staff, guest).
+
+---
+
+## [0.3.0] - 2025-07-25
+### 🧱 Infrastructure & Security
+- Added input validation and secure authentication protocols.
+- Configured Firestore rules for access control.
+- Integrated TLS encryption for data-in-transit.
+
+---
+
+## [0.4.0] - 2025-08-01
+### 📊 Dashboard & Analytics
+- Created admin dashboard for real-time access monitoring.
+- Designed Power BI dashboard mockups for access log visualization.
+- Enabled access log storage and retrieval via Firestore.
+
+---
+
+## [0.5.0] - 2025-08-10
+### 🧪 Testing & Refinement
+- Conducted unit tests on login and access control modules.
+- Refined UI for better responsiveness and accessibility.
+- Fixed bugs related to role-based access logic.
+
+---
+
+## [0.6.0] - 2025-08-18
+### 🚀 Final Prep Before Release
+- Added biometric login option (fingerprint).
+- Enabled offline mode with credential caching.
+- Finalized wireframes and updated UI components.
+- Conducted security audit and patched minor vulnerabilities.
+
+---
+
+## [1.0.0] - 2025-08-22
+### 🎉 Official Release
+- See full release notes in the main
