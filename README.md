@@ -22,7 +22,8 @@ Addresses vulnerabilities in traditional card systems and provides real-time mon
 - Admin dashboard
 
 ## 🎨 Wireframes
-Wireframes available in `/designs` folder or linked via Figma.
+<img width="1810" height="830" alt="Screenshot 2025-08-23 135829" src="https://github.com/user-attachments/assets/21e703e1-86a4-474d-a74d-c236389c86a1" />
+
 
 ## 📚 Resources
 - [GitHub Lab Training](https://lab.github.com/githubtraining/introduction-to-github)
