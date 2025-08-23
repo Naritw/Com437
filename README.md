@@ -9,7 +9,7 @@ Addresses vulnerabilities in traditional card systems and provides real-time mon
 
 ## 🛠️ Platform
 - Android (Kotlin/Java)
-- Firebase backend
+- Firebase backend (optional)
 
 ## 🧩 Front/Back End Support
 - Front-end: Android Studio, XML
